@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Handlers",
+    "\\Helpers",
+    "\\Models",
+    "\\Properties",
+    "\\Services"
+  ],
+  "SelectedNode": "\\Models\\AppSettings.cs",
+  "PreviewInSolutionExplorer": false
+}
